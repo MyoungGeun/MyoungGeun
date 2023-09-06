@@ -6,8 +6,6 @@
 <p></p>
 <p align="center">😄 Techs that i`ve used at least once 😄 </br></br> </p>
 
-<p align="center">🎨<a href="https://moon-taein.github.io/"> 포트폴리오 </a>🎨</br></br> </p>
-
 <div align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
