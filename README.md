@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Jang-Myeonggeun&fontSize=90&animation=twinkling)
 
 
-<p align="center">👋 반갑습니다! 장명근입니다 👋 </br></br> </p>
+<p align="center">👋 반갑습니다! 친화력이 장점인 신입 개발자 장명근입니다 👋 </br></br> </p>
+<p align="center">📧 email : maijuana@naver.com  </br></br> </p>
+<p align="center">📱 phone : 010-7688-4536</br></br> </p>
 <p align="center">🌱 웹 / 백엔드 개발자 🌱 </br></br> </p>
 <p></p>
 <p align="center">😄 Techs that i`ve used at least once 😄 </br></br> </p>
